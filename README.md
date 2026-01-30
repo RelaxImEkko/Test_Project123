@@ -6,6 +6,6 @@ git clone https://github.com/RelaxImEkko/Test_Project123
 
 cd Test_Project
 
-
+docker-compose up --build
 
 # API: http://localhost:8000/docs
